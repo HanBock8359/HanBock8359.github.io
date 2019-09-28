@@ -42,7 +42,7 @@ avatar: assets/images/avatar.jpg
 #---For actual display on github page
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hanbock8359.github.io" # the base hostname & protocol for your site
 
 #---For Testing on localhost:4000
@@ -67,5 +67,5 @@ dribbble_url:
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
